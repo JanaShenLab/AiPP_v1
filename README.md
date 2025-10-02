@@ -10,7 +10,7 @@ Companion repository for:
 
 Unless otherwise noted, this repositories content is © 2025 Guy W. Dayhoff II and Jana Shen (on behalf of all authors) and is licensed under Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0).
 
-Plain English: You may copy, adapt, and share the site’s non-code content for non-commercial purposes as long as you provide proper attribution. For any commercial use, please contact the authors for permission.
+Plain English: You may copy, adapt, and share the repositories content for non-commercial purposes as long as you provide proper attribution. For any commercial use, please contact the authors for permission.
 
 ## Archived artifacts (immutable, citable)
 
