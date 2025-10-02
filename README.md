@@ -1,8 +1,11 @@
 # AiPP: Artifical Intelligence Protein Profiling
 
+**License:** Content © 2025 Guy W. Dayhoff II, licensed under
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+
 Companion repository for:
 -  lluminating the Druggable Human Proteome with an AI Protein Profiling Platform"
--  Dayhoff, Guy W., Daniel Kortzak, Ruibin Liu, Mingzhe Shen, Zhong-Yin Zhang, and Jana Shen. "Illuminating the Druggable Human Proteome with an AI Protein Profiling Platform." (2025)
+-  Dayhoff II, Guy W., Daniel Kortzak, Ruibin Liu, Mingzhe Shen, Zhong-Yin Zhang, and Jana Shen. "Illuminating the Druggable Human Proteome with an AI Protein Profiling Platform." (2025)
 -  https://www.biorxiv.org/content/10.1101/2025.09.07.670677v2
 
 ## Archived artifacts (immutable, citable)
