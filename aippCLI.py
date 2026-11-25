@@ -534,7 +534,8 @@ def extract_esmc_layer(
     seq: str,
     layer: int = ESMC_LAYER,
     mdl: str = ESMC_MODEL_NAME,
-    forge_url: str = "https://forge.evolutionaryscale.ai",
+    #forge_url: str = "https://forge.evolutionaryscale.ai",
+    forge_url: str = "https://biohub.ai",
     forge_token: str = "",
 ) -> torch.Tensor:
     """
@@ -1605,7 +1606,7 @@ def parse_args() -> argparse.Namespace:
     )
     p.add_argument(
         "--forge-url",
-        default="https://forge.evolutionaryscale.ai",
+        default="https://biohub.ai",
         help="Forge URL.",
     )
     p.add_argument(
